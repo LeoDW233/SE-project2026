@@ -1,5 +1,19 @@
 
 
+<img width="1789" height="1056" alt="image" src="https://github.com/user-attachments/assets/ba84d7c4-1687-4b2f-bdc3-4c4da9f02e5f" />
+Use WASD to move and spacebar to jump; you need to jump across these platforms.
+
+<img width="1782" height="1060" alt="image" src="https://github.com/user-attachments/assets/cb2a9b9d-ad57-411b-b741-ef13362003bc" />
+When you encounter these red triangles, you will fail and have to start the game from the beginning.
+
+<img width="1793" height="1059" alt="image" src="https://github.com/user-attachments/assets/a132f0d8-cf23-41de-9ce1-71bbc0d7b701" />
+These yellow platforms will move, and you need to jump at the right time.
+
+<img width="1792" height="1070" alt="image" src="https://github.com/user-attachments/assets/d70d9c22-eaed-4024-adcc-9f4784fc427c" />
+This green platform represents the finish line; stepping on it will take you to the next level.
+
+
+
 
 Software Purpose: 1. What development process does this software use? Our game uses an agile software development process.
 
