@@ -39,4 +39,6 @@ Software Development and Runtime Environment: 1. Programming Language: C#
 
 2. (1) Minimum Hardware Requirements: (Development) CPU: i5 or R5, Memory: 16GB, Hard Disk: 30GB | (Running) CPU: i3 or R3, Memory: 90MB, Hard Disk: 90MB
 
+Demo:https://youtu.be/k5RbMFWbN9s
+
 2. (2) Minimum Software Requirements: (Development) Windows 7 (SP1+), 64-bit version only; Unity Hub 2.4.5; Unity 2019.4.10f1 (LTS); Visual Studio Code: 1.62.3 (Running) Unity 2019.4.10f1 (LTS)
